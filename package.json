@@ -1,0 +1,26 @@
+{
+  "name": "trainingusdt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David179-gif/TrainingUSDT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David179-gif/TrainingUSDT/issues"
+  },
+  "homepage": "https://github.com/David179-gif/TrainingUSDT#readme",
+  "dependencies": {
+    "next": "^14.2.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
